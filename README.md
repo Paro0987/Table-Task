@@ -30,7 +30,7 @@ This application demonstrates the use of **React hooks** for state management an
 
 ## **Demo**
 
-🚀 [Deployment Link](https://vercel.com/paromita-mistris-projects/table-task/A6m3kuT2CdBQEKg6UtYvvvdPxdJB)
+🚀 [Deployment Link](https://table-task-bbf0uyjch-paromita-mistris-projects.vercel.app/)
 ---
 
 ## Installation and Setup
