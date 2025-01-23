@@ -54,6 +54,6 @@ This application demonstrates the use of **React hooks** for state management an
 ---
 - **Dynamic Table**
 ---
-![Home Page](./Assets/Table.png)
+![Home Page](./assets/Table.png)
 
 ---
