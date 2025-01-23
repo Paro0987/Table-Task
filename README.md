@@ -30,7 +30,7 @@ This application demonstrates the use of **React hooks** for state management an
 
 ## **Demo**
 
-🚀 [Deployment Link](https://user-list-one-mu.vercel.app/)
+🚀 [Deployment Link](https://vercel.com/paromita-mistris-projects/table-task/A6m3kuT2CdBQEKg6UtYvvvdPxdJB)
 ---
 
 ## Installation and Setup
@@ -54,6 +54,6 @@ This application demonstrates the use of **React hooks** for state management an
 ---
 - **Dynamic Table**
 ---
-![Home Page](./Assets/Home%20Page.png)
+![Home Page](./Assets/Table.png)
 
 ---
